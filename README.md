@@ -6,3 +6,6 @@
 ## Check point
 
 - [ ] header (nav bar), footer + (Contact)
+
+## Timeline
+- 18/02/2023: Women Power
