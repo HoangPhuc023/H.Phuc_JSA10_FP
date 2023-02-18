@@ -1,7 +1,7 @@
 
 # H.Phuc Final Project (8/3)
 
-## Ideas
+## Ideas: 
 
 ## Check point
 
